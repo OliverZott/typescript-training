@@ -8,6 +8,20 @@
   - `npm install -g typescript`
 
 
+
+# Topics
+
+## Arrays & Loops
+
+## Classes
+
+- Access modifiers
+- Parameter properties
+- Modules
+
+
+
+
 # Remarks
 - Conventions: https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md
 - Add `tsconfig.json`
