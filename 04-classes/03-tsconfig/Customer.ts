@@ -22,7 +22,7 @@ class Customer {
     public set lastName(value: string) {
         this._lastName = value;
     }
-    
+
 }
 
 // let's create an instance
