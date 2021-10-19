@@ -19,6 +19,10 @@
 - Parameter properties
 - Modules
 
+## Inheritance
+- Abstract
+- Interfaces
+  - https://www.typescriptlang.org/docs/handbook/interfaces.html
 
 
 
