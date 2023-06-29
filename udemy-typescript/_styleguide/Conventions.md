@@ -1,0 +1,2 @@
+- https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
+- https://google.github.io/styleguide/tsguide.html

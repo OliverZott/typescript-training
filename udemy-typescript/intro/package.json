@@ -1,0 +1,14 @@
+{
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    },
+    "prettier": {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "semi": false,
+        "singleQuote": true
+    },
+    "dependencies": {
+        "npm": "^8.3.0"
+    }
+}

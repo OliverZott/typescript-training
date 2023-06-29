@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "grunt"
+		},
+		{
+			"path": "_styleguide"
+		},
+		{
+			"path": "react-quiz"
+		},
+		{
+			"path": "intro"
+		},
+		{
+			"path": "01_basics"
+		},
+		{
+			"path": "02_intermediate"
+		},
+		{
+			"path": "03_advanced"
+		}
+	]
+}

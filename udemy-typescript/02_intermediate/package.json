@@ -1,0 +1,15 @@
+{
+  "name": "intermediate",
+  "version": "1.0.0",
+  "description": "- `npm install`\r - Transpile TS --> JS\r   - `npx tsc --watch` ... modifications to source code will **re-compile** on-the-fly\r   or \r   - `npx tsc xxx.ts` \r - To compile ts directly use **ts-node**\r   - `npm i ts-node`\r   - `npx ts-node src/xxx.ts`",
+  "main": "index.js",
+  "scripts": {
+    "go": "npx tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
